@@ -15,7 +15,6 @@
     - sign in (make an account if necessary)
     - download the command line tools for your operating system (to find out which OS you have, click the apple logo at the top left of the screen -> about this Mac)
   - **(option c) install Xcode:** https://apps.apple.com/us/app/xcode/id497799835?mt=12
-- **clone codebase:** `git clone https://github.com/james-bern/CSCI-371.git`
   - **_if prompted, install developer tools and then repeat this step_**
 - **build and run:** `source mac_build_and_run.sh --help`
 #### debug
