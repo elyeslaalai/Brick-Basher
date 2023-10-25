@@ -47,8 +47,7 @@
   - **option b -- install Visual Studio Community Edition:** https://visualstudio.microsoft.com/downloads/
 - **open a x64 Native Tools Command Prompt:** press `⊞ Win`; type `x64`; press `Enter`
 - **navigate to Desktop:** `cd "C:\Users\YOUR_USER_NAME\Desktop"`
-- **clone codebase:** `git clone https://github.com/james-bern/CSCI-371.git`
-- **navigate into repo:** `cd CSCI-371`
+- **navigate into repo:** `cd Brick-Basher`
 - **build and run / debug:** `windows_build_and_run.bat --help`
 - **(optional but recommended) create a shortcut for the x64 Native Tools Command Prompt that starts in repo**
   - **bring up x64 Native Tools Command Prompt in start menu:** press `⊞ Win`; type `x64`
