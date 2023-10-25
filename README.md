@@ -17,8 +17,7 @@
   - **(option c) install Xcode:** https://apps.apple.com/us/app/xcode/id497799835?mt=12
 - **clone codebase:** `git clone https://github.com/james-bern/CSCI-371.git`
   - **_if prompted, install developer tools and then repeat this step_**
-- **navigate into repo:** `cd CSCI-371`
-- **build and run / debug:** `source mac_build_and_run.sh --help`
+- **build and run:** `source mac_build_and_run.sh --help`
 #### debug
 - **debug with VS Code:**
   - **install and configure VS Code**
