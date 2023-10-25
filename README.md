@@ -1,3 +1,12 @@
+##  🤖 Project Desription: 
+Brick-Basher is an exhilarating arcade game that challenges your reflexes and strategic thinking. In this classic title, players control a paddle at the bottom of the screen, tasked with deflecting a bouncing ball to demolish a wall of colorful bricks above. Each brick comes in different strengths, and power-ups can either aid or hinder your progress. The objective is simple: obliterate all the bricks without letting the ball fall off the paddle. With its addictive gameplay and ever-increasing difficulty, Brick-Basher offers hours of entertainment and is a nostalgic nod to the golden age of video gaming.
+
+##  🌸 Gameplay Video:
+https://www.youtube.com/watch?v=1Z8OsBBuaB0
+
+##  🍎 Additional Info:
+In case you want to run this code on your computer, following info will be very useful!
+
 ## [🐄 docs (click me) 🐌](https://github.com/james-bern/CSCI-371/wiki)
 
 ## quick start guide
