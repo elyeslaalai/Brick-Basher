@@ -3,7 +3,6 @@ Brick-Basher is an exhilarating arcade game that challenges your reflexes and st
 
 ##  🌸 Gameplay Video:
 https://www.youtube.com/watch?v=1Z8OsBBuaB0
-\n ** Sound Effects not included in video **
 
 ##  🍎 Additional Info:
 In case you want to run this code on your computer, following info will be very useful!
